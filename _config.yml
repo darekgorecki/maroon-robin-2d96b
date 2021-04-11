@@ -83,3 +83,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://maroon-robin-2d96b.netlify.app'
